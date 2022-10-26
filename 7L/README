@@ -1,0 +1,17 @@
+CS515 Lab 7
+
+
+Name: Jeffrey Fernandes
+uid: jjf1027
+Section: 01
+
+How many hours did you take to complete this assignment?
+5
+
+How difficult did you find this assignment from a scale of 0-10 where 10 represents the hardest?
+4
+
+What challenges did you encounter? And how did you address them?
+Had issues properly moving up and down the binary heap, but
+with the help of the Ta, I was able to figure out that I Had
+to divide my variable values in half for it to work.

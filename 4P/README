@@ -1,0 +1,17 @@
+CS515 Assignment 4
+
+Name: Jeffrey Fernandes
+uid: jjf1027
+Section: 01
+
+How many hours did you take to complete this assignment?
+~9
+
+How difficult did you find this assignment from a scale of 0-10 where 10 represents the hardest?
+4
+
+What challenges did you encounter? And how did you address them?
+Stack was an easy implementation since it was very similar to the lab.
+Queue on the other hand was not as easy to implement and I got issues
+where it would abort and dump all values but I didn't know where it happened.
+I realized I had a couple of sizing issues in the dump and dequeue methods.

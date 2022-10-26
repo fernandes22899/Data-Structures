@@ -1,0 +1,19 @@
+CS515 Assignment 3
+
+Name: Jeffrey
+uid: Fernandes
+Section:
+
+How many hours did you take to complete this assignment?
+18
+
+How difficult did you find this assignment from a scale of 0-10 where 10 represents the hardest?
+9
+
+What challenges did you encounter? And how did you address them?
+Initially had problems had problems with both the files.
+Imagestack was not properly inserting values into the 3d Array
+at first but after many trials and errors or messing around with
+the looks it worked. Image.cpp Also had some difficulties rotating
+a rectangular image until I properly redesigned the loops for
+it to finally work.

@@ -1,0 +1,22 @@
+CS515 Assignment 1
+
+Name: Jeffrey Fernandes
+uid: jjf1027
+Section: 1
+
+How many hours did you take to complete this assignment?
+15
+
+How difficult did you find this assignment from a scale of 0-10 where 10 represents the hardest?
+6
+
+What challenges did you encounter? And how did you address them?
+First, I had issues correctly implementing values into the vector from a stringstream.
+Then i found another way to implement the values into the vector by going directly
+into the vector from the ifstream using stod().
+Second, I had issues getting the right minutes passed but then I got it to work after
+many trials and errors.
+Third, I had major issues trying to figure out how to get the code to know if
+there were invalid characters. I solved the issue by using the isdigit() function
+from C. Then I changed the value of the bad characters to -1 so I could find it
+later and call an error.

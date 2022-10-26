@@ -1,0 +1,62 @@
+CS515 Lab 6
+
+
+Name: jjf1027
+uid: jjf1027
+Section: 01
+
+
+mysterySort1 is Heap Sort
+Your evidence: The reason this is heapsort because it is the longest
+sorting algorithm out of all of them. Heap is known as the longest
+since it requires the most memory and time due to the second array.
+
+Time Elapsed: 3812 microseconds
+
+_________________________________________________________________
+mysterySort2 is Bubble Sort
+Your evidence: Bubble sort takes the first value and swaps it when the
+next value if it is greater than the next. If it finds a bigger one,
+then it stops and uses the next number. Once it goes all the way,
+it loops again. I could tell it was doing this because I noticed How
+all numbers were being swapped with the first one until it found
+a bigger number.
+
+Time Elapsed: 1529 microseconds
+
+_________________________________________________________________
+mysterySort3 is Insertion Sort
+Your evidence: It will start at the beginning of the array checking
+each value to see if it greater than the one before it. Once it
+finds a less than value, it puts it to the front and will check the
+array from the beginning again.
+
+Time Elapsed: 1275 microseconds
+
+_________________________________________________________________
+mysterySort4 is Quicksort
+Your evidence: This is quicksort because O(N log N) is executed fastest
+out of all the other sorts. This sort got the fastest time so it is
+quicksort.
+
+Time Elapsed: 205 microseconds
+
+_________________________________________________________________
+mysterySort5 is Selection Sort
+Your evidence: this program will go and find the lowest number in the
+array and put it at the front of the array and continue to do that
+until it's done.
+
+Time Elapsed: 1165 microseconds
+
+
+——————————————————
+How many hours did you take to complete this assignment?
+5
+
+How difficult did you find this assignment from a scale of 0-10 where 10 represents the hardest?
+4
+
+What challenges did you encounter? And how did you address them?
+Trying to run detective.cpp was my first issue but after that was
+trying to figure out how each sorting algorithm moved its numbers.
